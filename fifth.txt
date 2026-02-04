@@ -1,2 +1,2 @@
-hello devops";
-Login feature added" 
+echo "hello devops";
+"Login feature added" 
